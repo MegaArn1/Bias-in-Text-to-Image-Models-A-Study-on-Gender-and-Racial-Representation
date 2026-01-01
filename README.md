@@ -5,7 +5,8 @@
 
 ## Abstract
 
-This repository contains the official implementation for our paper, **"[Your Paper Title Here],"** submitted to the AAAI 2026 conference.
+This repository contains the official implementation for our paper, **"Language as a Latent Control: Cross-Lingual Bias Inversion and Modality Gaps
+in Medical Text-to-Image Generation"** submitted to the AAAI 2026 conference.
 
 This project aims to systematically investigate the gender and racial biases present in mainstream Text-to-Image (T2I) models. We selected four advanced models—**Kolors, Qwen-Image, Flux, and Stable Diffusion**—and prompted them to generate portrait images of patients with specific diseases. We then employed a Vision-Language Model (VLM) to analyze the demographic attributes (gender, race) of the generated images. By comparing the distribution of these generated results with real-world demographic data for the diseases, we quantify the biases using metrics such as the **Chi-Square Test** and **Statistical Parity Difference (SPD)**. Furthermore, we explore the impact of using both Chinese and English prompts on the manifestation of these biases.
 
@@ -236,5 +237,6 @@ in Medical Text-to-Image Generation},
 ```
 
 ## License
+
 
 This repository is licensed under the [MIT License](LICENSE).
