@@ -1,0 +1,1 @@
+# Bias-in-Text-to-Image-Models-A-Study-on-Gender-and-Racial-Representation
