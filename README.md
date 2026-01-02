@@ -224,15 +224,9 @@ The scripts in this stage are used to generate the figures and summary data for 
 If you use the code or methods from this repository in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{your-lastname-2026-bias,
-    title     = {Language as a Latent Control: Cross-Lingual Bias Inversion and Modality Gaps
-in Medical Text-to-Image Generation},
-    author    = {Ruochen Huang and Zixuan Zhou and Xuyi Fan},
-    booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
-    volume    = {40},
-    number    = {1},
-    year      = {2026},
-    month     = {Feb}
+@inproceedings{huang2026language,
+    title     = {Language as a Latent Control: Cross-Lingual Bias Inversion and Modality Gaps in Medical Text-to-Image Generation},
+    author    = {Ruochen Huang and Zixuan Zhou and Yifan Xu and Zhaoting Zhong and Yixue Liu and Lei Zhang and Changwei Zhang and Honghan Wu},
 }
 ```
 
@@ -240,3 +234,4 @@ in Medical Text-to-Image Generation},
 
 
 This repository is licensed under the [MIT License](LICENSE).
+
